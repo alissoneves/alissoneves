@@ -65,4 +65,4 @@ Algumas das minhas certificações:
 
 ### GFT Start #6 - Lógica de Programação:​
 
-In Progress! ⚠
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=Logica_ProgramDIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/Logica_ProgramDIO)
