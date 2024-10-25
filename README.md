@@ -55,7 +55,7 @@ Algumas das minhas certificações:
 
 ### Jornada DevOps com AWS - Impulso:​
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=DockerCompose&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/github.com/alissoneves/DockerCompose.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=DockerCompose&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/github.com/alissoneves/DockerCompose)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=linuxprojeto1-iac&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/github.com/alissoneves/linuxprojeto1-iac)
 
@@ -74,7 +74,7 @@ Algumas das minhas certificações:
 
 ### Curso de Python 3 do básico ao avançado:​
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=Python_Udemy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/Python_Udemy.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alissoneves&repo=Python_Udemy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alissoneves/Python_Udemy)
 
 
 
