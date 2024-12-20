@@ -6,20 +6,28 @@ Estou com um desafio pessoal para aprender outros temas que não estão dentro d
 
 Algumas das minhas certificações:
 <ul>
-<li> Project Management Professional - PMP </li>
-<li> ITIL v3 Foundation </li>
-<li> Kanban System Design (KSD / KMP I) </li>
-<li> Kanban System Improvement (KSI / KMP II) </li>
-<li> Kanban Management Professional (KMP) </li>
-<li> PSM I (Professional Scrum Master I) </li> 
-<li> PSPO I (Professional Scrum Product Owner I) </li> 
-<li> SFC (Scrum Fundamentals Certified) </li>
-<li> Lean Advanced Certificate </li>
-<li> Auditor Interno ISO 14001:2015 </li>
-<li> Auditor Interno ISO 9001:2015 </li>
-<li> Auditor Interno OHSAS 18001:2007 </li>
+<li> ✪ Project Management Professional - PMP </li>
+<li> ✪ ITIL v3 Foundation </li>
+<li> ✪ Kanban System Design (KSD / KMP I) </li>
+<li> ✪ Kanban System Improvement (KSI / KMP II) </li>
+<li> ✪ Kanban Management Professional (KMP) </li>
+<li> ✪ PSM I (Professional Scrum Master I) </li> 
+<li> ✪ PSPO I (Professional Scrum Product Owner I) </li> 
+<li> ✪ SFC (Scrum Fundamentals Certified) </li>
+<li> ✪ Lean Advanced Certificate </li>
+<li> ✪ Auditor Interno ISO 14001:2015 </li>
+<li> ✪ Auditor Interno ISO 9001:2015 </li>
+<li> ✪ Auditor Interno OHSAS 18001:2007 </li>
 </ul>
 
+Entusiasta e aprendiz de Python, Inteligência Artificial e Machine Learning, estou sempre explorando como essas tecnologias podem transformar ideias em soluções inovadoras. Com uma abordagem prática e curiosidade constante, dedico-me a desenvolver habilidades técnicas que impulsionam a inovação e a eficiência em projetos. Valorizo o aprendizado contínuo, aplicando conceitos avançados de IA e ML para resolver problemas complexos e gerar valor.
+
+Habilidades de Programação:
+
+<li> ✪ Python: Intermediário – Aprendendo ativamente e aplicando em projetos de Machine Learning e IA.</li>
+<li> ✪ JavaScript: Iniciante – Conhecimento básico de sintaxe e conceitos, começando a trabalhar em pequenos projetos web.</li>
+<li> ✪ TypeScript: Iniciante – Compreensão de tipos e estrutura, praticando no desenvolvimento web.</li>
+<li> ✪ Docker e Kubernetes: Intermediário – Explorando conteinerização e orquestração.</li>
 
 ## 👨 Conecte-se comigo
 
